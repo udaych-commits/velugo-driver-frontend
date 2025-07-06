@@ -1,2 +1,18 @@
 // For information on how to create your own theme, please see:
 // http://ionicframework.com/docs/theming/
+:root {
+  --ion-color-primary: #FFA726; /* Your Light Orange */
+  --ion-color-primary-rgb: 255, 167, 38;
+  --ion-color-primary-contrast: #ffffff;
+
+  --ion-color-secondary: #4CAF50; /* Green for online */
+  --ion-color-secondary-rgb: 76, 175, 80;
+  --ion-color-secondary-contrast: #ffffff;
+
+  --ion-color-danger: #D32F2F; /* Red for SOS */
+  --ion-color-danger-rgb: 211, 47, 47;
+  --ion-color-danger-contrast: #ffffff;
+
+  --ion-background-color: #ffffff; /* App background white */
+  --ion-text-color: #212121; /* Dark text */
+}

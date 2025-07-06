@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884634270757",
+    "project_id": "velugo-driver-frontend",
+    "storage_bucket": "velugo-driver-frontend.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884634270757:android:ba3d4083760c18da1453cc",
+        "android_client_info": {
+          "package_name": "com.velugo.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWwEcfdk4hkKYISO6XvOrGe_EI97P4Je0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
